@@ -1,3 +1,3 @@
 first_number = 4
-expect(second_number).not_to equal(0)
+secon_number = 1 
 sum = first_number + second_number
